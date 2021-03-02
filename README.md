@@ -1,11 +1,13 @@
 # 2020cce
+##第一個程式
 #include <stdio.h>
 int main()
 {
     int a, b, c, d;
     scanf("%d",&a);
     printf("%d=50*%d+5*%d+1*%d\n",a,a/50,a%50/5,a%50%5/1);
-}    
+}  
+##第二個程式
 #include <stdio.h>
 int main()
 int a,i,b=0;
@@ -19,6 +21,7 @@ b++;
 }
 printf("%d\n",b);
 }
+##第三個程式
 #include <stdio.h>
 int main()
 {
@@ -30,7 +33,8 @@ int main()
    ans++;
    }
    printf("%d\n"ans);
-   }
+}
+##第四個程式   
 #include <stdio.h>
 int main()
 {
@@ -40,7 +44,8 @@ int main()
    else if( 90>n&&n>=80 )printf("B\n") ;
    else if( 80>n&&n>=60 )printf("C\n");
    else printf("F\n);
-   }
+}
+##第五個程式
    #include <stdio.h>
    int main()
    {
