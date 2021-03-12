@@ -129,4 +129,5 @@ int *p=(int*)malloc(sizeof(int)*10);
 return 0;
 }
 ```
-   
+## 第九個程式
+```c
