@@ -1,5 +1,6 @@
 # 2020cce
-##第一個程式
+## 第一個程式
+```c
 #include <stdio.h>
 int main()
 {
@@ -7,6 +8,7 @@ int main()
     scanf("%d",&a);
     printf("%d=50*%d+5*%d+1*%d\n",a,a/50,a%50/5,a%50%5/1);
 }  
+```
 ##第二個程式
 #include <stdio.h>
 int main()
