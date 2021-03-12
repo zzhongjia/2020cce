@@ -116,4 +116,17 @@ for(int i=0;i<5;i++)printf("%d ",a[i]);
 
  }
  ```
+ ## 第八個程式
+ ```c
+ #include <stdio.h>
+#include <stdlib.h>
+int a[10];
+int main(){
+int b[10];
+
+int *p=(int*)malloc(sizeof(int)*10);
+
+return 0;
+}
+```
    
