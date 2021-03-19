@@ -234,7 +234,7 @@ printf("%f%f\n",a.x,a.y);
 
 a.x=1;
 a.y=2;
-printf("%f %f\n",a.x,a.y):
+printf("%f %f\n",a.x,a.y);
 
 return 0;
 }
