@@ -221,7 +221,7 @@ struct POINT a;
 
 }
 ```
-##第十四個程式
+## 第十四個程式
 ```c
 #include <stdio.h>
 struct POINT{
