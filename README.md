@@ -509,6 +509,23 @@ void setup(){
    size(300,200);
    float ans = random(60);
    textSize(30);
-   text( ans,0,30);
 }  
 ```
+## 第二七個程式
+```c
+void setup(){
+   size(300,200);
+   textSize(30);
+}  
+int ans=0;
+void draw(){
+  background(#0AE6F0);
+  text(ans, 30, 30);
+}
+void mousePressed(){
+  ans = (int)random(60);
+}
+```
+
+
+
