@@ -503,3 +503,12 @@ void draw(){
   text("還剩下:"+hh+":"+mm+":"+ss,100,300);
 }
 ```
+## 第二十六個程式
+```c
+void setup(){
+   size(300,200);
+   float ans = random(60);
+   textSize(30);
+   text( ans,0,30);
+}  
+```
